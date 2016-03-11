@@ -39,7 +39,7 @@ public class Q1 {
 	}
 	
 	public static long getLongSum(long[] x, int N) {
-		int xCnt = 0;
+		long xCnt = 0;
 		long xLast = Long.MIN_VALUE;
 		long sum = 0;
 		
@@ -58,7 +58,7 @@ public class Q1 {
 	}
 	
 	public static long getIntSum(int[] x, int N) {
-		int xCnt = 0;
+		long xCnt = 0;
 		int xLast = Integer.MIN_VALUE;
 		long sum = 0;
 		
