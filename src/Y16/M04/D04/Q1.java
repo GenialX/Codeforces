@@ -4,6 +4,8 @@ import java.util.Scanner;
 /**
  * D. Zip-line
  * http://codeforces.com/contest/650/problem/D
+ *
+ * timeout
  * 
  * @author GenialX
  * 
