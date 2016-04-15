@@ -5,7 +5,7 @@ import java.util.Scanner;
  * D. Zip-line
  * http://codeforces.com/contest/650/problem/D
  *
- * timeout
+ * now timeout
  * 
  * @author GenialX
  * 
